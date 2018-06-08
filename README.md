@@ -1,3 +1,5 @@
 # Angular
 
-Repositorio aprendendo angular, tutorial heroes
+Repositorio aprendendo angular, typescript e etc 
+
+tutorial heroes
